@@ -1,18 +1,9 @@
 
-# Python cache
 __pycache__/
 *.py[cod]
-
-# Virtual environment
 .venv/
-
-# Automated test cache
 .pytest_cache/
-
-# Generated report
 student_performance_report.csv
-
-# Editor and operating system files
 .vscode/
 .DS_Store
 Thumbs.db
