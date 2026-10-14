@@ -105,5 +105,10 @@ official academic records.
 - More detailed reporting and analytics.
 
 ## GitHub Repository
+https://github.com/Yash05official/Student-Performance-Analytics.git 
 
-Add your actual GitHub repository URL here.
+GitHub Repository Name
+Student Performance Analytics — GitHub
+ 
+ #Live Dashboard (Deployed)
+ https://student-performance-analytics-dashboard05.streamlit.app/
